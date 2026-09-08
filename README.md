@@ -3,4 +3,6 @@ Web audio player: Now you can listen to your sounds anywhere. You only need a br
 
 Download: [W. a. p.](https://github.com/lennoncesar/wap/blob/main/index.html) 
 
+Or use it on the web: [http://wap.zapto.org](http://wap.zapto.org)
+
 Created by Lennon
